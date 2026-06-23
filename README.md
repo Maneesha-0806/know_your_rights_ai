@@ -3,7 +3,8 @@
 > **Making legal information accessible through AI-powered conversational interface**
 
 An intelligent Retrieval-Augmented Generation (RAG) chatbot that provides accessible information about Indian legal rights and regulations. Built with state-of-the-art language models and optimized for consumer-grade hardware.
-Demo video: https://drive.google.com/file/d/1MLs0fyorgcKoen2RaEafGD2g9HDccACi/view?usp=sharing
+
+> Demo video: https://drive.google.com/file/d/1MLs0fyorgcKoen2RaEafGD2g9HDccACi/view?usp=sharing
 ---
 
 ## 🌟 Features
